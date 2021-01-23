@@ -1,0 +1,46 @@
+.card{
+    border: 1px solid;
+    width: 200px;
+    height: 300px;margin: 30px;
+    border-radius: 10px;
+}
+.image{
+    width: 200px;
+}
+.details{
+    flex-direction: column;
+    display: flex;
+    margin-top: 10px;
+}
+.name{
+    margin: 4px;
+    font-weight: 700;
+}
+.Itemprice{
+    margin: 4px;
+    font-weight: 700;
+}
+button{
+    background: #fff;
+}
+.add{
+    margin: 4px;
+}
+.itemD{
+    font-size: 13px;
+    font-weight: 500;
+    float: right;
+    margin-right: 4px;
+}
+.allcards{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.delete{
+    float: right;
+    margin-right: 2px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    cursor: pointer;
+}

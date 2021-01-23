@@ -1,0 +1,97 @@
+.shop{
+    color: #808080c9;
+}
+.line{
+ height: 2px;
+ background: #80808036;
+ width: 100%       
+}
+.header{
+    text-align: start;
+    margin: 10px;
+    font-size: 24px;
+}
+.tableHead{
+    display: flex;
+}
+.items{
+    flex-grow: 0.5;
+    text-align: start;
+    margin: 10px;
+}
+.Qty{
+    flex-grow: 0.25;
+    text-align: start;
+    margin: 10px;
+}
+.price{
+    text-align: start;
+    margin: 10px;
+}
+.order{
+    display: flex;
+    padding: 20px;
+}
+.cart{
+    flex-grow: 0.75
+}
+.cardDetails{
+    width: 300px;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    border: 2px solid gray;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+}
+.cardHead{
+    text-align: start;
+    font-weight: 700;
+    color: #000;
+}
+.tableData{
+    display: flex;
+}
+.data1{
+    flex-grow: 0.44;
+    text-align: start;
+    margin: 10px;
+    border: 1px solid #80808036;
+}
+.data2{
+    flex-grow: 0.29;
+    text-align: start;
+    margin: 10px
+}
+.data3{
+    margin: 10px;
+    flex-grow: 0.25;
+    text-align: start;
+}
+img{
+    vertical-align: text-bottom;
+}
+.dataItems{
+    vertical-align: super;
+    margin-left: 10px;
+}
+.close{
+    float: right;
+    cursor: pointer;
+    padding: 9px 19px 2px 2px;
+}
+.plusminus{
+    cursor: pointer;
+}
+.finalAmount{
+    color: #000;
+    font-weight: 700;
+    margin-top: 15px;
+    font-size: 17px;
+}
+.checkout{
+    margin-top: 17px;
+}

@@ -1,0 +1,19 @@
+.cartCount{
+    font-size: 13px;
+    background: black;
+    color: #ffffff;
+    border-radius: 51%;
+    width: 16px;
+    text-align: center;
+    height: 17px;
+    margin-top: 6px;
+    margin-left: -1px;
+}
+.cartButn{
+    color: #000;
+    display: flex;
+    justify-content: flex-end;
+}
+.cartText{
+    cursor: pointer;
+}
