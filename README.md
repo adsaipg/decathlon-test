@@ -11,7 +11,8 @@ credentials = {\
   email: "robin@decathlon.com"\
 };
 
-localhost:3000\
+localhost:3000
 
 branch - main
 
+node >= 12.14.1
